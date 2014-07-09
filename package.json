@@ -1,13 +1,14 @@
 {
   "name": "googleapis-plus",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "author": "Linda Nichols <lynnaloo@gmail.com>",
   "description": "Google APIs Client Library for Node.js",
   "contributors": [
     {
       "name": "Burcu Dogan",
       "email": "jbd@google.com"
-    }, {
+    },
+    {
       "name": "Monsur Hossain",
       "email": "monsur@google.com"
     },
@@ -28,12 +29,12 @@
     "client",
     "client library"
   ],
-  "dependencies" : {
+  "dependencies": {
     "request": "~2.34.0",
     "async": "~0.2.10",
     "gapitoken-generic": "~0.0.3"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "mocha": "1.8.1",
     "url": "0.7.9"
   },

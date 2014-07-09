@@ -1,6 +1,6 @@
 {
   "name": "googleapis-plus",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "author": "Linda Nichols <lynnaloo@gmail.com>",
   "description": "Google APIs Client Library for Node.js",
   "contributors": [

@@ -1,7 +1,7 @@
 {
-  "name": "googleapis",
+  "name": "googleapis-plus",
   "version": "0.8.0",
-  "author": "Google Inc.",
+  "author": "Linda Nichols <lynnaloo@gmail.com>",
   "description": "Google APIs Client Library for Node.js",
   "contributors": [
     {
@@ -10,12 +10,16 @@
     }, {
       "name": "Monsur Hossain",
       "email": "monsur@google.com"
+    },
+    {
+      "name": "Linda Nichols",
+      "email": "lynnaloo@gmail.com"
     }
   ],
   "main": "./lib/googleapis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/google-api-nodejs-client.git"
+    "url": "https://github.com/lynnaloo/google-api-nodejs-client.git"
   },
   "keywords": [
     "google",
@@ -27,7 +31,7 @@
   "dependencies" : {
     "request": "~2.34.0",
     "async": "~0.2.10",
-    "gapitoken": "~0.1.2"
+    "gapitoken-generic": "~0.0.3"
   },
   "devDependencies" : {
     "mocha": "1.8.1",
